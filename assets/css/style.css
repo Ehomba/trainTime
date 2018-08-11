@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url(../images/trainbackground.gif);
+    background-size: 1140px 241px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.table {
+    width: 100%;
+}
